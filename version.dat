@@ -1,0 +1,6 @@
+version=1.4.0
+
+changes:
+- Added --parent argument | Use to rename with parent directory istead of camera models.
+- Corrected naming convention to use DCF standards.
+- Added version checking to check for updates.

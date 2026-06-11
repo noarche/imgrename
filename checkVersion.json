@@ -1,0 +1,6 @@
+{
+    "version_url": "https://raw.githubusercontent.com/noarche/imgrename/refs/heads/main/version.dat",
+    "timeout": 5,
+    "show_up_to_date": true,
+    "show_current_version": true
+}
