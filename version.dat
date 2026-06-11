@@ -1,4 +1,4 @@
-version=1.4.0
+version=3.2
 
 changes:
 - Added --parent argument | Use to rename with parent directory istead of camera models.
